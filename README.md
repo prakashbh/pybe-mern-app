@@ -43,7 +43,7 @@ The default values work for local development.
 npm run seed
 ```
 
-4. Run the app:
+4. Run the app: (local only for now)
 
 ```bash
 npm run dev
